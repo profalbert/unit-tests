@@ -1,0 +1,23 @@
+{
+  "name": "jest_unit-testing-in",
+  "version": "1.0.0",
+  "description": "jest, unit-testing in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest",
+    "js",
+    "unit-testing"
+  ],
+  "author": "Albert Bekhter",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^26.0.20",
+    "jest": "^26.6.3"
+  },
+  "dependencies": {
+    "axios": "^0.21.1"
+  }
+}
